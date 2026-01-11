@@ -6,10 +6,6 @@
 ![Compose](https://img.shields.io/badge/Jetpack%20Compose-F8C8DC?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-FF69B4?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-<br>
-
-<br>
-
 </div>
 
 ---
