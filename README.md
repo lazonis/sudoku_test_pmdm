@@ -8,8 +8,6 @@
 
 <br>
 
-***"Logic but make it cute."*** 🩰
-
 <br>
 
 </div>
@@ -18,7 +16,7 @@
 
 ### 🍥 **Sobre el Proyecto**
 
-Un pequeño y dulce ejercicio de programación móvil. Esta aplicación recrea el clásico **Sudoku** utilizando tecnologías modernas de Android. Diseñada para ser funcional, reactiva y limpia visualmente. Sin complicaciones, solo código y lógica.
+Un pequeño ejercicio de programación móvil. Esta aplicación recrea el clásico **Sudoku** utilizando tecnologías modernas de Android.
 
 ### 🍰 **Características Principales**
 
@@ -32,20 +30,8 @@ Un pequeño y dulce ejercicio de programación móvil. Esta aplicación recrea e
 * **Lenguaje:** Kotlin 🦢
 * **UI Toolkit:** Jetpack Compose
 * **Arquitectura:** MVVM (Model - View - ViewModel)
-* **IDE:** Android Studio Ladybug (o superior)
+* **IDE:** Android Studio
 
 ---
 
-<div align="center">
 
-### ☁️ **Cómo probarlo**
-
-1. Clona este repositorio 🧶
-2. Abre el proyecto en **Android Studio** 💻
-3. Ejecuta en tu emulador favorito 📱
-
-<br>
-
-![Made with Love](https://img.shields.io/badge/Made%20with-Love%20%26%20Kotlin-F48FB1?style=flat-square)
-
-</div>
